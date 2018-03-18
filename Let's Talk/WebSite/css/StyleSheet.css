@@ -1,0 +1,52 @@
+﻿body {
+    font-family: 宋体;
+    font-size: 9pt;
+}
+
+a:link {
+    color: blue;
+    font-family: 宋体;
+    font-size: 9pt;
+    text-decoration: underline;
+}
+
+A:link {
+    COLOR: Black;
+    TEXT-DECORATION: underline;
+}
+
+A:visited {
+    COLOR: Black;
+    TEXT-DECORATION: underline;
+}
+
+A:active {
+    color: Red;
+    TEXT-DECORATION: underline;
+}
+
+A:hover {
+    COLOR: Red;
+    left: 1;
+    position: relative;
+    text-decoration: none;
+    top: 1;
+}
+
+strong {
+    color: #993300;
+    font-family: 宋体;
+    font-size: 12pt;
+}
+/*按钮样式*/
+
+.ButtonCss {
+    background-color: #e8f4ff;
+    border: 1px solid #93bee2;
+    color: #003399;
+    CURSOR: hand;
+    font-family: "Tahoma", "宋体";
+    font-size: 9pt;
+    font-style: normal;
+    height: 20px;
+}
